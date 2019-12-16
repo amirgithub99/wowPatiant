@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (4.7.1)
+  - GoogleMaps (2.6.0):
+    - GoogleMaps/Maps (= 2.6.0)
+  - GoogleMaps/Base (2.6.0)
+  - GoogleMaps/Maps (2.6.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.6.0):
+    - GoogleMaps/Base (= 2.6.0)
+  - JBDatePicker (1.2.5)
+  - SDWebImage (4.3.3):
+    - SDWebImage/Core (= 4.3.3)
+  - SDWebImage/Core (4.3.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - GoogleMaps
+  - GooglePlaces
+  - JBDatePicker
+  - SDWebImage (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 68d7d521118d49c615a8d2214d87cdf525599d30
+  GoogleMaps: 42f91c68b7fa2f84d5c86597b18ceb99f5414c7f
+  GooglePlaces: f6ddf33b75cef69e888907d9947c57198ed845f3
+  JBDatePicker: 0e791c8a79c49b0d37decea28ba147515bf5cfca
+  SDWebImage: de4d90b5bff3571eae7bd16202b1f43135409fa5
+
+PODFILE CHECKSUM: 125026df15c6d4947d8b5e6f704aedab47f0d101
+
+COCOAPODS: 1.4.0
