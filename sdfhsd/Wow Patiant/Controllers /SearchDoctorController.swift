@@ -23,7 +23,7 @@ class SearchDoctorController: UIViewController, UITableViewDelegate, UITableView
     var searchFilterArr = NSMutableArray()
     var doctorInfoCriteriaArr = NSMutableArray()
     
-    
+    wdsfdsfds
     // MARK: - View Life Cycle
     override func viewDidLoad()
     {
